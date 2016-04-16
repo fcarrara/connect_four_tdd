@@ -4,8 +4,8 @@ My implementation of the game Connect Four in Ruby using TDD development as part
 
 ####The techniques practiced:
 
-* TDD (Test deiven development)
-* BDD (Behavior driven development)
+* TDD (Test-driven development)
+* BDD (Behaviour-driven development)
 * RSpec
 
 ![Alt text](screenshot.png?raw=true "Connect Four")
